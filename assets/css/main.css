@@ -1540,7 +1540,7 @@ header .navbar-expand .navbar-brand i {
 header .navbar-expand .navbar-brand i{
     margin: 0 0 0 5px;
     font-family: var(--h1-font);
-    font-size: 12px;
+    font-size: 25px;
 }
 
 header .navbar-expand .navbar-brand img {
